@@ -56,6 +56,8 @@ objects:
               value: "1"
             - name: "THOTH_DRY_RUN"
               value: "1"
+            - name: "DISABLE_SETUP_PY_PROCESSING"
+              value: "1"
             - name: "THOTH_ADVISE"
               value: ${THOTH_ADVISE}
             - name: "THAMOS_VERBOSE"
